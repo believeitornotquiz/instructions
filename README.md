@@ -28,7 +28,7 @@ This guide explains how to set up and run quizzes using the **Believe It or Not?
 <a id="setup"></a>
 ## Setup
 1. **Do you have an account?** — If not, contact <admin@believeitornot.co.nz>.
-2. **Download and install the app** (to be able to download the quiz and run it from your computer): <https://tinyurl.com/BION-builds>
+2. **Download and install the app** (to be able to download the quiz and run it from your computer): [BION builds](https://drive.google.com/drive/u/2/folders/1kLWme_Tv2oMhYJE9VuRYAVjqPPikFt-D).
 3. **Website access**: <https://quiz.believeitornot.co.nz/>
 4. Use the **website** to log in on any device for marking controls. You may display the quiz via the website if venue Wi‑Fi is reliable, but **only the app** can **preload all content to enable playing it offline**.
 5. **Marking and the scoreboard always require an internet connection**, even when using the app.
