@@ -114,7 +114,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 <a id="tips-best-practices"></a>
 ## Tips & Best Practices
 - Use your **phone** for fast marking while presenting from a laptop.
-- Before advancing slides with media, confirm **mute/pause** states to avoid silent playback later.
+- Before advancing slides with media, confirm **mute/pause** states to avoid silent playback later. You can also see whether you're muted or paused in the top right corner of the actual quiz slides.
 - Test venue **Wi‑Fi**; if spotty, rely on the **app** with offline sync and plan for manual scoring.
 
 <a id="faq"></a>
