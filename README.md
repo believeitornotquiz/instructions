@@ -50,7 +50,7 @@ On login, the control panel lists quizzes available to your account.
 ## Running the Quiz
 ![Quiz control panel showing Start and Sync options](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/Select%20Quiz%20Mode.png)
 
-*Figure 3: Three Options when starting a game. If unsure, use Option 1.*
+*Figure 3: Three options when starting a game. If unsure, use Option 1.*
 
 After pressing **Start Quiz**, you will see three options to launch your game.
 * **Option 1:** — Teams join online + answer using the regular pen and paper booklets. The default option, teams will join the quiz via a QR code enabling participation in our leaderboards.
@@ -83,9 +83,10 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 
 *Figure 5: Marking interface with Answers and Preview Scoreboard.*
 
-![Answer view and scoreboard preview](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%204.png)
+![Tiebreak marking example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/tiebreak%20example.png)
+![Tiebreak scoreboard example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/tiebreak%20scoreboard.png)
 
-*Figure 6: An example of how to mark a tie-break and its resulting scoreboard.*
+*Figures 6 & 7: An example of how to mark a top-three tie-break and its resulting scoreboard. Note how the fourth place teams stay tied unless a tiebreak score is applied.*
 
 <a id="presentation-tab"></a>
 ### Presentation Tab
@@ -103,7 +104,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 
 ![Presentation controls and launch window](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%205.png)
 
-*Figure 5: Presentation mode with Launch Window, Jump to round, and scoreboard controls.*
+*Figure 8: Presentation mode with Launch Window, Jump to round, and scoreboard controls.*
 
 <a id="offline-mode"></a>
 ## Offline Mode
