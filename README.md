@@ -67,7 +67,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 4. In the **Add Team** dialog, enter the team name and **amount of players** on the team, assign **Joker rounds**, then **double‑click Save** to finish adding them.
 
 ![Add Team dialog with Joker rounds](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%203.png)
-*Figure 4: Add Team dialog; assign Joker rounds before saving.*
+*Figure 4: Add Team dialog; assign Joker rounds and the amount of players before saving.*
 
 <a id="marking-tab"></a>
 ### Marking Tab
