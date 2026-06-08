@@ -64,7 +64,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 1. Use the **Teams** tab to manage participating teams.
 2. Press **Add Team** to add a new team manually. This will not enable participation on the Leaderboards for that team.
 3. Edit any teams using the **pen** button; remove with the **rubbish bin**. You can do this at any time, even after the game starts, and even where they have joined online. Fix incorrect Jokers, alter team names, etc.
-4. In the **Add Team** dialog, enter the team name and amount of players on the team, assign **Joker rounds**, then **double‑click Save** to finish adding them.
+4. In the **Add Team** dialog, enter the team name and **amount of players** on the team, assign **Joker rounds**, then **double‑click Save** to finish adding them.
 
 ![Add Team dialog with Joker rounds](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%203.png)
 *Figure 4: Add Team dialog; assign Joker rounds before saving.*
