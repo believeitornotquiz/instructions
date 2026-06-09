@@ -22,7 +22,7 @@
 ## Overview
 This guide explains how to set up and run quizzes using the **Believe It or Not?** platform. We strongly recommend you use the **app** to run your quiz so you can preload content, and use the **website** for marking and controlling the presentation.
 
-![Main menu showing synced quizzes](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%201.png)
+![Main menu showing synced quizzes](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%201.png)
 *Figure 1: Main menu with synced/unsynced quizzes and resource links.*
 
 <a id="setup"></a>
