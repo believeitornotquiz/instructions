@@ -43,12 +43,12 @@ On login, the control panel lists quizzes available to your account.
 * **Download Resources** — get the PDF Q&A booklet for that week's quiz. This may not be available for all quizzes.
 * **Reset Session** - reset your account, closing all games. Use this when you encounter bugged games or greyed out buttons. Fixes most issues but will close any active games, losing their scores.
 
-![Quiz control panel showing Start and Sync options](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%202.png)
+![Quiz control panel showing Start and Sync options](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%202.png)
 *Figure 2: Control panel with Start Quiz, Sync for Offline, Download Resources, and Reset Session.*
 
 <a id="running-the-quiz"></a>
 ## Running the Quiz
-![Quiz control panel showing Start and Sync options](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/Select%20Quiz%20Mode.png)
+![Quiz control panel showing Start and Sync options](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/Select%20Quiz%20Mode.png)
 
 *Figure 3: Three options when starting a game. If unsure, use Option 1.*
 
@@ -66,7 +66,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 3. Edit any teams using the **pen** button; remove with the **rubbish bin**. You can do this at any time, even after the game starts, and even where they have joined online. Fix incorrect Jokers, alter team names, etc.
 4. In the **Add Team** dialog, enter the team name and **amount of players** on the team, assign **Joker rounds**, then **double‑click Save** to finish adding them.
 
-![Add Team dialog with Joker rounds](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%203.png)
+![Add Team dialog with Joker rounds](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%203.png)
 *Figure 4: Add Team dialog; assign Joker rounds and the amount of players before saving.*
 
 <a id="marking-tab"></a>
@@ -79,12 +79,12 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 6. **The List** is marked differently, simply assign the team their points value for the round.
 7. **Tie‑breaks:** In the tie‑break section, assign the **highest points to the nearest answer**, next highest to the second closest, and so on. The system will handle the rankings for you, i.e. third place teams will only be sorted against third place teams even if given a higher tiebreak score than a higher placing team.
 
-![Answer view and scoreboard preview](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%204.png)
+![Answer view and scoreboard preview](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%204.png)
 
 *Figure 5: Marking interface with Answers and Preview Scoreboard.*
 
-![Tiebreak marking example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/tiebreak%20example.png)
-![Tiebreak scoreboard example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/tiebreak%20scoreboard.png)
+![Tiebreak marking example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/tiebreak%20example.png)
+![Tiebreak scoreboard example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/tiebreak%20scoreboard.png)
 
 *Figures 6 & 7: An example of how to mark a top-three tie-break and its resulting scoreboard. Note how the fourth place teams stay tied unless a tiebreak score is applied.*
 
@@ -102,7 +102,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 9. **Finalise Marking** immediately shows the **trophy animation scoreboard** (can be undone).
 10. **End Quiz** permanently ends the game and **will erase current marking**—use with care.
 
-![Presentation controls and launch window](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/figure%205.png)
+![Presentation controls and launch window](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%205.png)
 
 *Figure 8: Presentation mode with Launch Window, Jump to round, and scoreboard controls.*
 
