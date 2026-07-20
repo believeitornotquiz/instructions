@@ -147,7 +147,7 @@ Teams joining online in **Option 1** or **Option 2** do so through the **Partici
 <a id="offline-mode"></a>
 ## Offline Mode
 1. **Sync for Offline** is only available in the **app** and preloads quiz content to your computer.
-2. **Marking and the scoreboard require an internet connection** even when content is preloaded. Switch to manual scoring if connectivity is lost.
+2. **Marking and the scoreboard can be done locally within the app** but can not be interacted with via a second device.
 
 <a id="tips-best-practices"></a>
 ## Tips & Best Practices
@@ -172,4 +172,8 @@ Assign points based on closest answers; the system ranks teams automatically.
 <details>
 <summary>Why did Auto-Mark show an error for one of my teams?</summary>
 This usually means that you have manually added a team instead of them joining via the participant app. Auto-Mark still processes all other valid teams normally — remove the stale team from the Teams tab if it's no longer needed.
+</details>
+<details>
+<summary>I don't have a six digit code with my QR code on the Welcome Screen.</summary>
+This usually means that the laptop you're hosting the quiz on has lost its internet connection at the time you clicked start game. If you've already "synced for offline", you may not notice you aren't connected when launching. Once connected, ending and restarting the game should provide you with a code.
 </details>
