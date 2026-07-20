@@ -9,13 +9,14 @@
 - [Setup](#setup)
 - [Main Menu](#main-menu)
 - [Running the Quiz](#running-the-quiz)
-  - [Teams Tab](#teams-tab)
-  - [Marking Tab](#marking-tab)
-  - [Presentation Tab](#presentation-tab)
+- [Teams Tab](#teams-tab)
+- [Marking Tab](#marking-tab)
+- [Mobile Participant Only Games (Option 2)](#mobile-participant-only-games-option-2)
+- [Presentation Tab](#presentation-tab)
 - [Participant App](#participant-app)
-  - [Joining a Quiz](#joining-a-quiz)
-  - [Answering Questions](#answering-questions)
-  - [Managing Your Team](#managing-your-team)
+- [Joining a Quiz](#joining-a-quiz)
+- [Answering Questions](#answering-questions)
+- [Managing Your Team](#managing-your-team)
 - [Offline Mode](#offline-mode)
 - [Tips & Best Practices](#tips--best-practices)
 - [FAQ](#faq)
@@ -82,7 +83,6 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 5. Multiple people can mark concurrently on different devices; solo hosts often find phone marking fastest.
 6. **The List** is marked differently, simply assign the team their points value for the round.
 7. **Tie‑breaks:** In the tie‑break section, assign the **highest points to the nearest answer**, next highest to the second closest, and so on. The system will handle the rankings for you, i.e. third place teams will only be sorted against third place teams even if given a higher tiebreak score than a higher placing team.
-8. **Auto-Mark (Option 2 only):** The Marking tab works slightly differently when playing a participant app only game via Option 2. In this mode, **answer buttons** on the Marking tab appear blank until a team has sent through their answer data from their phone. The **Answers** button will display the correct answer underneath the **answer button** rather than within it. Click **Mark** to have AI auto-mark every team's answers for the selected round in one go. A progress dialog ("AI is evaluating answers...") shows while it runs; when finished, a summary lists how many teams were processed and questions marked, plus any errors. A common error is a team's session no longer matching a valid record in the database — usually this refers to a team manually added by you as the host rather than a fault with the feature. Always spot-check AI-marked free-text answers against **Answers** before finalising. You have the option to mark manually at all times even in Option 2 games.
 
 ![Answer view and scoreboard preview](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%204.png)
 
@@ -92,6 +92,17 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 ![Tiebreak scoreboard example](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/tiebreak%20scoreboard.png)
 
 *Figures 6 & 7: An example of how to mark a top-three tie-break and its resulting scoreboard. Note how the fourth place teams stay tied unless a tiebreak score is applied.*
+
+<a id="mobile-participant-only-games-option-2"></a>
+### Marking Participant App Only Games (Option 2)
+1. Teams must join via the participant app for the game to function correctly.
+2. The **Marking tab** works slightly differently when playing a participant app only game via **Option 2**.
+3. **Answer buttons** on the Marking tab appear blank until a team has sent through their answer data from their phone.
+4. The **Answers** button will display the correct answer underneath the **answer button** rather than within it.
+5. Click **Mark** to have **AI auto-mark** every team's answers for the selected round in one go.
+6. A progress dialog ("AI is evaluating answers...") shows while it runs; when finished, a summary lists how many teams were processed and questions marked, plus any errors.
+7. Always spot-check AI-marked free-text answers against **Answers** before finalising. You have the option to mark manually at all times even in Option 2 games.
+8. A common error is a team's session no longer matching a valid record in the database — usually this refers to a team manually added by you as the host rather than a fault with the feature. You should avoid doing this. 
 
 <a id="presentation-tab"></a>
 ### Presentation Tab
@@ -124,19 +135,19 @@ Teams joining online in **Option 1** or **Option 2** do so through the **Partici
 
 <a id="answering-questions"></a>
 ### Answering Questions (Option 2 only)
-- The live view follows the host's presentation automatically — round intros, topics, and questions appear as the host advances slides. You can manually go backwards within a round by pressing the **left arrow** button, but you cannot go further into the quiz than the host.
-- Type your answer into **Your Answer** or select your **multiple choice option** and click **Save Answer** (confirms as **Answer Saved**). You can only edit the answer for the *currently live* round — once the host moves to the answers, whatever you've submitted is locked in.
-- Reaching the end of the round will prompt you to review your answers before finalising them, and will tell you if you have left any questions unanswered.
+1. The live view follows the host's presentation automatically — round intros, topics, and questions appear as the host advances slides. You can manually go backwards within a round by pressing the **left arrow** button, but you cannot go further into the quiz than the host.
+2. Type your answer into **Your Answer** or select your **multiple choice option** and click **Save Answer** (confirms as **Answer Saved**). You can only edit the answer for the *currently live* round — once the host moves to the answers, whatever you've submitted is locked in.
+3. Reaching the end of the round will prompt you to review your answers before finalising them, and will tell you if you have left any questions unanswered.
 
 <a id="managing-your-team"></a>
 ### Managing Your Team
-- **Manage Team** lets you view or edit your team name, member count, home venue, email, and password, and see **Team History** of past sessions.
-- **Leave Session** exits the current game without deleting your account; **Log Out** signs out entirely.
+1. **Manage Team** lets you view or edit your team name, member count, home venue, email, and password, and see **Team History** of past sessions.
+2. **Leave Session** exits the current game without deleting your account; **Log Out** signs out entirely.
 
 <a id="offline-mode"></a>
 ## Offline Mode
-- **Sync for Offline** is only available in the **app** and preloads quiz content to your computer.
-- **Marking and the scoreboard require an internet connection** even when content is preloaded. Switch to manual scoring if connectivity is lost.
+1. **Sync for Offline** is only available in the **app** and preloads quiz content to your computer.
+2. **Marking and the scoreboard require an internet connection** even when content is preloaded. Switch to manual scoring if connectivity is lost.
 
 <a id="tips-best-practices"></a>
 ## Tips & Best Practices
@@ -147,18 +158,18 @@ Teams joining online in **Option 1** or **Option 2** do so through the **Partici
 <a id="faq"></a>
 ## FAQ
 <details>
-  <summary>Can I run a quiz completely offline?</summary>
-  You can preload content using the app, but marking and the scoreboard still require internet.
+<summary>Can I run a quiz completely offline?</summary>
+You can preload content using the app, but marking and the scoreboard still require internet.
 </details>
 <details>
-  <summary>What happens if I press End Quiz?</summary>
-  The current game ends permanently and you will lose your marking. Consider using Back Soon or Finalise Marking first.
+<summary>What happens if I press End Quiz?</summary>
+The current game ends permanently and you will lose your marking. Consider using Back Soon or Finalise Marking first.
 </details>
 <details>
-  <summary>How do tie-breaks work?</summary>
-  Assign points based on closest answers; the system ranks teams automatically.
+<summary>How do tie-breaks work?</summary>
+Assign points based on closest answers; the system ranks teams automatically.
 </details>
 <details>
-  <summary>Why did Auto-Mark show an error for one of my teams?</summary>
-  This usually means that team's session is stale (e.g. left over from an earlier test or session) and no longer matches a valid record in the database. Auto-Mark still processes all other valid teams normally — remove the stale team from the Teams tab if it's no longer needed.
+<summary>Why did Auto-Mark show an error for one of my teams?</summary>
+This usually means that you have manually added a team instead of them joining via the participant app. Auto-Mark still processes all other valid teams normally — remove the stale team from the Teams tab if it's no longer needed.
 </details>
