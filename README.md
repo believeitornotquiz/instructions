@@ -1,7 +1,7 @@
 <a id="believe-it-or-not-quiz-host-guide"></a>
 # Believe It or Not? Quiz Host Guide
 
-> Version: 08-06-2026 | For Quiz Hosts
+> Version: 20-07-2026 | For Quiz Hosts
 
 <a id="table-of-contents"></a>
 ## Table of Contents
