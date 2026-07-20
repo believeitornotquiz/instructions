@@ -12,6 +12,10 @@
   - [Teams Tab](#teams-tab)
   - [Marking Tab](#marking-tab)
   - [Presentation Tab](#presentation-tab)
+- [Participant App](#participant-app)
+  - [Joining a Quiz](#joining-a-quiz)
+  - [Answering Questions](#answering-questions)
+  - [Managing Your Team](#managing-your-team)
 - [Offline Mode](#offline-mode)
 - [Tips & Best Practices](#tips--best-practices)
 - [FAQ](#faq)
@@ -78,6 +82,7 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 5. Multiple people can mark concurrently on different devices; solo hosts often find phone marking fastest.
 6. **The List** is marked differently, simply assign the team their points value for the round.
 7. **Tie‑breaks:** In the tie‑break section, assign the **highest points to the nearest answer**, next highest to the second closest, and so on. The system will handle the rankings for you, i.e. third place teams will only be sorted against third place teams even if given a higher tiebreak score than a higher placing team.
+8. **Auto-Mark (Option 2 only):** The Marking tab works slightly differently when playing a participant app only game via Option 2. In this mode, **answer buttons** on the Marking tab appear blank until a team has sent through their answer data from their phone. The **Answers** button will display the correct answer underneath the **answer button** rather than within it. Click **Mark** to have AI auto-mark every team's answers for the selected round in one go. A progress dialog ("AI is evaluating answers...") shows while it runs; when finished, a summary lists how many teams were processed and questions marked, plus any errors. A common error is a team's session no longer matching a valid record in the database — usually this refers to a team manually added by you as the host rather than a fault with the feature. Always spot-check AI-marked free-text answers against **Answers** before finalising.
 
 ![Answer view and scoreboard preview](https://raw.githubusercontent.com/believeitornotquiz/instructions/refs/heads/main/images/figure%204.png)
 
@@ -106,6 +111,28 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 
 *Figure 8: Presentation mode with Launch Window, Jump to round, and scoreboard controls.*
 
+<a id="participant-app"></a>
+## Participant App
+Teams joining online in **Option 1** or **Option 2** do so through the **Participant app** via the QR code on the Welcome screen (at [bion-platform-2-participantview.web.app](https://bion-platform-2-participantview.web.app/)), on their own phone or other device. In Option 1 this only powers leaderboard participation (teams still answer on paper); in Option 2 teams also submit their answers through it.
+
+<a id="joining-a-quiz"></a>
+### Joining a Quiz
+1. Open the Participant app and choose **Login** (existing team) or **Register** (new team).
+2. Click **Join a quiz**, then type in six-digit alphanumeric **venue code** displayed next to it.
+3. Choose your **Joker rounds** — your team's score is doubled in whichever 2 rounds you pick — enter your **number of team members**, then click **Join Quiz**.
+4. From Home, click **Open** on your quiz to enter the live view (also reachable via **Quiz** in the sidebar, which shows a **LIVE** badge once a game is underway).
+
+<a id="answering-questions"></a>
+### Answering Questions (Option 2 only)
+- The live view follows the host's presentation automatically — round intros, topics, and questions appear as the host advances slides. You can manually go backwards within a round by pressing the **left arrow** button, but you cannot go further into the quiz than the host.
+- Type your answer into **Your Answer** or select your **multiple choice option** and click **Save Answer** (confirms as **Answer Saved**). You can only edit the answer for the *currently live* round — once the host moves to the answers, whatever you've submitted is locked in.
+- Reaching the end of the round will prompt you to review your answers before finalising them, and will tell you if you have left any questions unanswered.
+
+<a id="managing-your-team"></a>
+### Managing Your Team
+- **Manage Team** lets you view or edit your team name, member count, home venue, email, and password, and see **Team History** of past sessions.
+- **Leave Session** exits the current game without deleting your account; **Log Out** signs out entirely.
+
 <a id="offline-mode"></a>
 ## Offline Mode
 - **Sync for Offline** is only available in the **app** and preloads quiz content to your computer.
@@ -130,4 +157,8 @@ Once the game is launched, you'll be greeted with three main tabs on your game s
 <details>
   <summary>How do tie-breaks work?</summary>
   Assign points based on closest answers; the system ranks teams automatically.
+</details>
+<details>
+  <summary>Why did Auto-Mark show an error for one of my teams?</summary>
+  This usually means that team's session is stale (e.g. left over from an earlier test or session) and no longer matches a valid record in the database. Auto-Mark still processes all other valid teams normally — remove the stale team from the Teams tab if it's no longer needed.
 </details>
