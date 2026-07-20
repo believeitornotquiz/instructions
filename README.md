@@ -11,7 +11,7 @@
 - [Running the Quiz](#running-the-quiz)
   - [Teams Tab](#teams-tab)
   - [Marking Tab](#marking-tab)
-  - [Hosting Mobile Participant Only Games (Option 2)](#hosting-mobile-participant-only-games-option-2)
+    - [Marking Participant App Only Games (Option 2)](#mobile-participant-only-games-option-2)
   - [Presentation Tab](#presentation-tab)
 - [Participant App](#participant-app)
   - [Joining a Quiz](#joining-a-quiz)
