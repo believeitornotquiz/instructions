@@ -1,7 +1,7 @@
 <a id="believe-it-or-not-quiz-host-guide"></a>
 # Believe It or Not? Quiz Host Guide
 
-> Version: 20-07-2026 | For Quiz Hosts
+> Version: 21-07-2026 | For Quiz Hosts
 
 <a id="table-of-contents"></a>
 ## Table of Contents
@@ -9,14 +9,14 @@
 - [Setup](#setup)
 - [Main Menu](#main-menu)
 - [Running the Quiz](#running-the-quiz)
-- [Teams Tab](#teams-tab)
-- [Marking Tab](#marking-tab)
-- [Mobile Participant Only Games (Option 2)](#mobile-participant-only-games-option-2)
-- [Presentation Tab](#presentation-tab)
+  - [Teams Tab](#teams-tab)
+  - [Marking Tab](#marking-tab)
+  - [Hosting Mobile Participant Only Games (Option 2)](#hosting-mobile-participant-only-games-option-2)
+  - [Presentation Tab](#presentation-tab)
 - [Participant App](#participant-app)
-- [Joining a Quiz](#joining-a-quiz)
-- [Answering Questions](#answering-questions)
-- [Managing Your Team](#managing-your-team)
+  - [Joining a Quiz](#joining-a-quiz)
+  - [Answering Questions](#answering-questions)
+  - [Managing Your Team](#managing-your-team)
 - [Offline Mode](#offline-mode)
 - [Tips & Best Practices](#tips--best-practices)
 - [FAQ](#faq)
