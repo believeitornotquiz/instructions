@@ -36,8 +36,8 @@ This guide explains how to set up and run quizzes using the **Believe It or Not?
 2. **Download and install the app** (to be able to download the quiz and run it from your computer): [BION builds](https://drive.google.com/drive/u/2/folders/1kLWme_Tv2oMhYJE9VuRYAVjqPPikFt-D).
 3. **Website access**: <https://quiz.believeitornot.co.nz/>
 4. Use the **website** to log in on any device for marking controls. You may display the quiz via the website if venue Wi‑Fi is reliable, but **only the app** can **preload all content to enable playing it offline**.
-5. **Marking and the scoreboard always require an internet connection**, even when using the app.
-6. Once a quiz is started, it becomes **live across all devices** — actions on any device are immediately reflected everywhere.
+5. **Running marking and the scoreboard from a separate device always requires an internet connection**, though it can be done locally on the app running the quiz when offline.
+6. Once a quiz is started, it becomes **live across all devices** with an internet connection — actions on any device are immediately reflected everywhere.
 7. You can control slides on a phone while displaying the quiz on a laptop, and **have multiple people mark simultaneously**.
 
 <a id="main-menu"></a>
@@ -147,19 +147,20 @@ Teams joining online in **Option 1** or **Option 2** do so through the **Partici
 <a id="offline-mode"></a>
 ## Offline Mode
 1. **Sync for Offline** is only available in the **app** and preloads quiz content to your computer.
-2. **Marking and the scoreboard can be done locally within the app** but can not be interacted with via a second device.
+2. **Marking and the scoreboard can be done locally within the app** but can not be interacted with via a second device if the quiz device does not have internet.
 
 <a id="tips-best-practices"></a>
 ## Tips & Best Practices
 - Use your **phone** for fast marking while presenting from a laptop.
 - Before advancing slides with media, confirm **mute/pause** states to avoid silent playback later. You can also see whether you're muted or paused in the top right corner of the actual quiz slides.
 - Test venue **Wi‑Fi**; if spotty, rely on the **app** with offline sync and plan for manual scoring.
+- Make everyone in the venue do the Tie-Break after Round 8. Teams can write their answer in the Ponderous Puzzle section of their answer sheet. That way, if you do need to run a tie-breaker, there is no additional wait before the scoreboard can be shown, as you will already know who is tied and how close they got to the tie-break. Teams often enjoy the additional question so there is nothing to lose doing it this way.
 
 <a id="faq"></a>
 ## FAQ
 <details>
 <summary>Can I run a quiz completely offline?</summary>
-You can preload content using the app, but marking and the scoreboard still require internet.
+You can preload content using the app to run it offline, but controlling slides, marking, and the scoreboard will only be able to be done from that same local device while not connected to the internet.
 </details>
 <details>
 <summary>What happens if I press End Quiz?</summary>
@@ -167,11 +168,11 @@ The current game ends permanently and you will lose your marking. Consider using
 </details>
 <details>
 <summary>How do tie-breaks work?</summary>
-Assign points based on closest answers; the system ranks teams automatically.
+The least complicated method is to simply assign the most points in the tie-breaker to teams that have gotten the closest to the answer. This works even if performing a tie-break for multiple positions on the leaderboard as the system will automatically only sort like-for-like. This way you don't have to think about anything other than what the team wrote.
 </details>
 <details>
-<summary>Why did Auto-Mark show an error for one of my teams?</summary>
-This usually means that you have manually added a team instead of them joining via the participant app. Auto-Mark still processes all other valid teams normally — remove the stale team from the Teams tab if it's no longer needed.
+<summary>Why did Auto-Mark show a technical sounding error for one of my teams?</summary>
+This usually means that you have manually added a team instead of them joining via the participant app. Auto-Mark still processes all other valid teams normally — remove the stale team from the Teams tab and have them join via the QR code.
 </details>
 <details>
 <summary>I don't have a six digit code with my QR code on the Welcome Screen.</summary>
